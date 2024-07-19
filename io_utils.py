@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 # Toma los tweets sin geo, ya pasados por el ner, y los guarda en un archivo csv
 def no_geo_to_csv(ner_no_geo_dataframe, twitter_df):
     ner_no_geo = ner_no_geo_dataframe
