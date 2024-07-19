@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "twitter-ner-investigation"
+version = "0.1.0"
+description = "This project focuses on applying Named Entity Recognition (NER) techniques to analyze tweets and determine the locations mentioned at the time of the tweet. The goal is to accurately extract and identify geographical locations from tweet texts, enabling better understanding and analysis of location-based trends and insights from social media data."
+authors = ["Manuel Mongelós <manuel5mongelos@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+transformers = "^4.42.4"
+pandas = "^2.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
