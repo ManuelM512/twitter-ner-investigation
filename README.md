@@ -5,6 +5,10 @@ This project began in July 2022 and ended in February 2023 as an "initiation to 
 <br>
 To be uploaded to GitHub, I did some minor refactoring. However, the vast majority of the code is exactly the same as it was. Expect some monstrosities, as I wanted to preserve it as a milestone in my learning journey that I will always hold dear.
 
+## Poster
+
+This investigation resulted in a poster, where it summarizes what was the intention of the investigation, the development and results. You can see it [here](https://github.com/ManuelM512/twitter-ner-investigation/blob/main/investigation_poster.pdf)
+
 ## Project Description
 
 This project focuses on applying Named Entity Recognition (NER) techniques to analyze tweets and determine the locations mentioned at the time of the tweet. The goal is to accurately extract and identify geographical locations from tweet texts, enabling better understanding and analysis of location-based trends and insights from social media data.
