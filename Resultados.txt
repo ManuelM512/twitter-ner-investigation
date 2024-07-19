@@ -1,0 +1,7 @@
+Cantidad de tweets analizados:  9740
+Cantidad de tweets con entidades reconocibles de lugar:  996
+Cantidad de tweets con localización activada:  925
+Cantidad de tweets con localización desactivada:  71
+Cantidad de tweets acertados (localización activada):  311
+Cantidad de tweets no acertados (localización activada):  614
+Porcentaje de acierto (localización desactivada): 33.62 %
